@@ -9,3 +9,6 @@ This data set consists of three types of entities.
 1) The specification of an auto in terms of various characteristics.
 2) Its assigned insurance risk rating
 3) Its normalized losses in use as compared to other cars.
+
+# URL:
+ Source:- https://archive.ics.uci.edu/ml/datasets/automobile
