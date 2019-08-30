@@ -5,10 +5,7 @@
 3) Insurance Collision Report, Insurance Institute for Highway Safety, Watergate 600, Washington,DC 20037
 
 # Automobile Data Set Information:
-This data set consists of three types of entities:
-
-1- The specification of an auto in terms of various characteristics
-
-2- Its assigned insurance risk rating
-
-3- Its normalized losses in use as compared to other cars.
+This data set consists of three types of entities.
+1) The specification of an auto in terms of various characteristics.
+2) Its assigned insurance risk rating
+3) Its normalized losses in use as compared to other cars.
